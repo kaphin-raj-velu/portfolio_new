@@ -5,7 +5,7 @@ export const portfolioData = {
     name: "Kaphin Raj Velu G K",
     titles: ["Full Stack Developer", "AI Enthusiast", "UI/UX Designer"],
     tagline: "Building intelligent, scalable, and impactful digital solutions",
-    resume: "https://drive.google.com/file/d/1uMSTOpEYgJYr2jiIkqRenTzQnGyaKTZV/view?usp=sharing",
+    resume: "https://drive.google.com/file/d/1VauA23RpdEwS2pTfEpFGwZS1eb_h8fLU/view?usp=sharing",
     socials: [
       { icon: Linkedin, link: "https://www.linkedin.com/in/kaphin123/", label: "LinkedIn" },
       { icon: Github, link: "https://github.com/kaphin-raj-velu", label: "GitHub" },
