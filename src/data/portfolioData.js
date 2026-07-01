@@ -35,7 +35,7 @@ export const portfolioData = {
       description: "AI system to detect bias, discrimination, and legal risks in interview questions. Suggests safer and unbiased alternatives.",
       tech: ["React", "Node.js", "MongoDB", "FastAPI", "BERT", "NLP"],
       category: "AI",
-      links: { github: "https://github.com/STACK_OVERLODE_VORTEX_20", demo: "https://drive.google.com/file/d/1wF5uc4UBOpA_uG859iWanWhPLps3WCPh/view" },
+      links: { github: "https://github.com/kaphin-raj-velu/STACK_OVERLODE_VORTEX_20", demo: "https://drive.google.com/file/d/1wF5uc4UBOpA_uG859iWanWhPLps3WCPh/view" },
       image: "https://images.unsplash.com/photo-1591453089816-0fbb971bac45?q=80&w=2070&auto=format&fit=crop"
     },
     {
@@ -44,7 +44,7 @@ export const portfolioData = {
       description: "Voice-enabled platform for visually impaired users with real-time audio feedback for seamless ordering.",
       tech: ["HTML", "CSS", "JS", "Node.js", "MySQL", "Web Speech API"],
       category: "Full Stack",
-      links: { github: "https://github.com/BITEBURST-main", demo: "https://drive.google.com/file/d/1t0sTzzz69Ttmzl3zN8DZotpwMhCUGlp2/view" },
+      links: { github: "https://github.com/kaphin-raj-velu/BITEBURST-main", demo: "https://drive.google.com/file/d/1t0sTzzz69Ttmzl3zN8DZotpwMhCUGlp2/view" },
       image: "https://images.unsplash.com/photo-1504674900247-0877df9cc836?q=80&w=2070&auto=format&fit=crop"
     },
     {
@@ -53,7 +53,7 @@ export const portfolioData = {
       description: "Multilingual chatbot (7 languages) for career guidance. Provides personalized career paths and roadmaps.",
       tech: ["TypeScript", "FastAPI", "Python", "MongoDB", "Gemini API"],
       category: "AI",
-      links: { github: "https://github.com/ai-career-counsellor", demo: "https://drive.google.com/file/d/1yCLGh2WEVxfPmakRZL_CvXr59Fs5yCpN/view" },
+      links: { github: "https://github.com/kaphin-raj-velu/ai-career-counsellor", demo: "https://drive.google.com/file/d/1yCLGh2WEVxfPmakRZL_CvXr59Fs5yCpN/view" },
       image: "https://images.unsplash.com/photo-1531482615713-2afd69097998?q=80&w=2070&auto=format&fit=crop"
     },
   {
@@ -75,7 +75,7 @@ export const portfolioData = {
   ],
   category: "Full Stack",
   links: {
-    "github": "https://github.com/QR_-BASED_EMERGENCY-_MEDICAL-_ID",
+    "github": "https://github.com/kaphin-raj-velu/QR_-BASED_EMERGENCY-_MEDICAL-_ID",
     "demo": "https://lifelineid-app.onrender.com/"
   },
  image: icon1

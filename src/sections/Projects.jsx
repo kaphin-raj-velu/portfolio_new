@@ -85,7 +85,7 @@ const projectImages = {
                   <motion.a 
                     whileHover={{ scale: 1.1, rotate: 5 }}
                     whileTap={{ scale: 0.9 }}
-                    href={project.links.github} 
+                    href={project.links.demo} 
                     target="_blank"
                     className="p-5 bg-white text-dark rounded-3xl hover:bg-primary hover:text-white transition-colors shadow-[0_20px_50px_rgba(139,92,246,0.3)] flex items-center gap-3 font-black uppercase text-[10px] tracking-widest"
                   >
